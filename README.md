@@ -43,4 +43,5 @@ Sigue estos sencillos pasos para echar a andar el proyecto en tu M5StickC:
 
 1. **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/robertotejado/M5StickC-Accuweather-Watch-.git](https://github.com/robertotejado/M5StickC-Accuweather-Watch-.git)
+   git clone https://github.com/robertotejado/M5StickC-Accuweather-Watch-.git
+   (https://github.com/robertotejado/M5StickC-Accuweather-Watch-.git)
